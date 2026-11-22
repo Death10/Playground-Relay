@@ -1,0 +1,15 @@
+{
+  "name": "pg-executor-relay",
+  "version": "0.1.0",
+  "description": "Self-hosted relay for the Playground Executor userscript (replaces gcli.ggchan.dev)",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "patch": "node patch-userscript.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
