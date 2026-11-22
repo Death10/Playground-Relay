@@ -10,13 +10,14 @@
 4. **Kết nối Google AI Studio:**
    - Truy cập [Google AI Studio](https://aistudio.google.com/).
    - Nhập `API_KEYS` của bạn và nhấn **Connect**.
+   - Có thể thử prompt 'hi' trên trình duyệt xem có nhận không.
 5. **Cấu hình trên SillyTavern:**
    - **Custom Endpoint (Base URL):** `http://0.0.0.0:8787/v1` (hoặc `http://localhost:8787/v1`)
    - **Custom API Key:** `my-secret-key` *(hoặc key bạn đã đổi ở Bước 3)*
 
 ---
 
-## ⚠️ Tính năng chưa hỗ trợ & Lưu ý
+## ⚠️ Tính năng chưa hỗ trợ
 
 - **Thinking level:** Chưa hỗ trợ tùy chỉnh mức độ suy nghĩ (chưa hỗ trợ *Thinking* bằng tiếng Anh mặc định).
 
