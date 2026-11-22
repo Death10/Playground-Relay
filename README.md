@@ -18,5 +18,8 @@
 
 ## ⚠️ Tính năng chưa hỗ trợ & Lưu ý
 
-- **Thinking level:** Chưa hỗ trợ tùy chỉnh mức độ suy nghĩ (không hỗ trợ *Thinking* bằng tiếng Anh mặc định).
+- **Thinking level:** Chưa hỗ trợ tùy chỉnh mức độ suy nghĩ (chưa hỗ trợ *Thinking* bằng tiếng Anh mặc định).
+
+## ⚠ Lưu ý (Khuyên dùng)
+
 - **Sử dụng Preset:** Nếu dùng Preset, quá trình suy nghĩ (*Thinking*) sẽ hoạt động dựa theo **Chuỗi tư duy (Chain of Thought)** được thiết lập sẵn trong Preset đó.
